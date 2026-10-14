@@ -1,0 +1,11 @@
+# Deep learning
+torch
+torchvision
+
+# Notebook et visualisation
+jupyter
+numpy
+matplotlib
+
+# Evaluation du modele
+scikit-learn
